@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+}
+
+h1 {
+    font-size: 36px; /* Example size for "Discover hidden places in the world around you" */
+    color: #ffffff; /* White text */
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 36px; /* Match h1 size for section headings */
+    color: #ffffff; /* White text */
+    margin: 20px 0;
+}
+
+a.cta {
+    color: #00FF00; /* Replace with the correct color code from the mock */
+    text-decoration: none;
+    font-weight: bold;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+video, img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+footer {
+    background-color: #333333; /* Dark gray background */
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #ffffff; /* White text */
+}
